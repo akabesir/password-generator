@@ -19,6 +19,6 @@ To copy the password to your clipboard, tap the "Copy" button
 If you encounter any issues or have any questions, please contact me at amarbesirovic@gmail.com. I am always happy to help.
 
 <h2>Updates</h2>
-I am constantly working to improve the Notes App. Be sure to keep your app updated for the best experience.
+I am constantly working to improve the Password generator. Be sure to keep your app updated for the best experience.
 
 Enjoy the Password Generator!
